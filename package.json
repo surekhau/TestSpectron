@@ -1,0 +1,19 @@
+{
+  "name": "SpectronTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "y",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.3.2",
+    "spectron": "^14.0.0"
+  },
+  "dependencies": {
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1"
+  }
+}
